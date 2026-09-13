@@ -24,34 +24,29 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### About
-
-Backend engineer based in **Tehran**, focused on **Node.js / NestJS** services in multi-service environments.
-
-- Backend engineering & API design
-- Microservices & distributed systems
-- Event-driven architecture (messaging, async workflows)
-- Database modeling (relational & document stores)
-- Authentication, authorization & session lifecycle
-- Containerized infrastructure & reverse proxies
-- Observability: logs, metrics, tracing, error monitoring
-- Exploring AI-assisted backend workflows in real codebases
-
+<td valign="top" width="42%">
+<h3>About</h3>
+<p>Backend engineer based in <strong>Tehran</strong>, focused on <strong>Node.js / NestJS</strong> services in multi-service environments.</p>
+<ul>
+<li>Backend engineering &amp; API design</li>
+<li>Microservices &amp; distributed systems</li>
+<li>Event-driven architecture (messaging, async workflows)</li>
+<li>Database modeling (relational &amp; document stores)</li>
+<li>Authentication, authorization &amp; session lifecycle</li>
+<li>Containerized infrastructure &amp; reverse proxies</li>
+<li>Observability: logs, metrics, tracing, error monitoring</li>
+<li>Exploring AI-assisted backend workflows in real codebases</li>
+</ul>
 </td>
-<td width="50%" valign="top">
-
-### Tech stack
-
-| Area | Tools |
-| :--- | :--- |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Messaging** | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Observability** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black) |
-
+<td valign="top" width="58%">
+<h3>Tech stack</h3>
+<table>
+<tr><td valign="top" width="120"><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></td></tr>
+<tr><td valign="top"><strong>Data</strong></td><td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></td></tr>
+<tr><td valign="top"><strong>Messaging</strong></td><td><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" /></td></tr>
+<tr><td valign="top"><strong>Infrastructure</strong></td><td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></td></tr>
+<tr><td valign="top"><strong>Observability</strong></td><td><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" /> <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" /> <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black" alt="Jaeger" /></td></tr>
+</table>
 </td>
 </tr>
 </table>
