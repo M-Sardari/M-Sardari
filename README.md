@@ -112,7 +112,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammad-sardari"><img src="https://img.shields.io/badge/LinkedIn-mohammad--sardari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:m.sardari@live.com"><img src="https://img.shields.io/badge/m.sardari%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:m.sardari90@gmail.com"><img src="https://img.shields.io/badge/m.sardari%40live.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/M-Sardari"><img src="https://img.shields.io/badge/GitHub-M--Sardari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
